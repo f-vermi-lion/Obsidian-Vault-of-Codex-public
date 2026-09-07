@@ -19,3 +19,7 @@ Obsidian CLIを使いましょう。恐らくその方が安全です。Obsidian
 
 # 安全上の方針
 作業リポジトリかチャットで許可されている範囲とこの書庫のみを作業の対象とすること。ただしCodexの側で使えるWEB情報は普通に使ってよい。（**デスクトップのブラウザではない**）
+Obsidian CLI操作時には必ずこのVault名 `Codexs-obsidian-vault` を指定する
+```
+obsidian vault="Codexs-obsidian-vault" search query="スケジュール"
+```
