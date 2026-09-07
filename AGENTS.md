@@ -23,3 +23,7 @@ Obsidian CLI操作時には必ずこのVault名 `Codexs-obsidian-vault` を指�
 ```
 obsidian vault="Codexs-obsidian-vault" search query="スケジュール"
 ```
+
+
+# Minecraft攻略
+- [[P文書/Minecraftエンドラ攻略]]: 目的・方針の入口。再開情報はリンク先の [[Minecraft攻略の現在地]] へ。
