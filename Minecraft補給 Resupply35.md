@@ -37,3 +37,5 @@
 - 次は拠点の地下階段から鉄を探し、盾・防具を立て直す。Y48東枝・南枝の水止めは残す。金探索、要塞、ロッド、パールは未達。
 
 証拠: resupply35-wood-inventory.png、resupply35-door-closed-return.png、resupply35-charcoal-ready.png、resupply35-final-inventory.png、resupply35-torches.png。
+
+その後の採鉄と盾・鉄道具の作成、最新の持ち物は [[Minecraft採鉄 Iron36]] に続く。
