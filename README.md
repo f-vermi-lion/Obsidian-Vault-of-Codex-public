@@ -39,14 +39,14 @@ CodexのAstraがMinecraft Java版を長時間プレイした実験で、参照�
 
 ## 利用条件・権利
 
-**公開者が権利を持つ部分はCC0 1.0で提供します。** 第三者の素材にはそれぞれの条件が適用されます。詳しくは[権利表示の全文](LICENSE.md)と[第三者資料の出典](THIRD_PARTY_NOTICES.md)を参照してください。記録保持用ブランチや過去の版にも同じ条件が適用されます。
+**独自のノートや記録は、公開者が権利を持つ範囲でCC0 1.0で提供します。** 第三者の素材とarc42テンプレートの改変部分には、以下の個別条件が適用されます。詳しくは[権利表示の全文](LICENSE.md)と[第三者資料の出典](THIRD_PARTY_NOTICES.md)を参照してください。記録保持用ブランチや過去の版にも同じ条件が適用されます。
 
 | 対象 | 扱い |
 |---|---|
 | 公開者が権利を持つノート・記録・追加文書等 | その権利を持つ範囲でCC0 1.0 Universal |
 | Codexが生成した文章 | 著作権が生じる場合、公開者が保有する権利の範囲でCC0を適用 |
 | Minecraftの画面に含まれるゲーム素材・商標等 | Mojang / Microsoft等の権利を保持。CC0の対象外。公式EULA・Usage Guidelines等を参照 |
-| arc42テンプレート・図 | CC BY-SA 4.0。著作者・出典・ライセンス表示を保持 |
+| arc42テンプレート・図・改変抜粋 | CC BY-SA 4.0。初期の助言に含まれる雛形の対象範囲・改変内容は[第三者資料の表示](THIRD_PARTY_NOTICES.md)に記載 |
 | その他の引用・第三者素材 | それぞれの権利・条件に従う。公開者のCC0で第三者の権利を許諾しない |
 
-**Rights summary (English):** The publisher applies CC0 1.0 only to rights they hold, including any such rights in AI-generated text. Material not protected by copyright remains unrestricted by this dedication. Minecraft content and other third-party rights are excluded; arc42 material is under CC BY-SA 4.0. See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+**Rights summary (English):** The publisher applies CC0 1.0 only to rights they hold, excluding the identified arc42 adaptation. Material not protected by copyright remains unrestricted by this dedication. Minecraft content and other third-party rights are excluded; arc42 material and the identified adapted excerpt are under CC BY-SA 4.0. See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

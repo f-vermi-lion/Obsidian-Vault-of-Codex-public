@@ -17,6 +17,8 @@ Minecraft screenshots are included as observations accompanying the experiment n
 
 ## arc42
 
+### テンプレート・図 / Template and diagrams
+
 **Created, maintained and © by Dr. Peter Hruschka, Dr. Gernot Starke and contributors.**
 
 収録した`arc42-template-EN.md`の版表示は**Template Version 9.0-EN, July 2025**です。テンプレートと関連図は、**Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**で配布されています。
@@ -45,6 +47,16 @@ The arc42 template and related diagrams are distributed under **CC BY-SA 4.0**. 
 arc42のテンプレート構造・見出し・説明文と、利用者自身が記入した内容の権利は区別します。テンプレートを改変して外部へ配布する場合はCC BY-SA 4.0の条件に従ってください。利用者が独自に書いた内容へ、テンプレートのライセンスを一括適用するものではありません。
 
 Distinguish arc42's template material from content independently written by its users. Follow CC BY-SA 4.0 when sharing adaptations of the template. The template license does not automatically relicense the user's own content.
+
+### 改変したテンプレート抜粋 / Adapted template excerpt
+
+[この書庫の使い方についてのユーザーからの初期の助言.md](この書庫の使い方についてのユーザーからの初期の助言.md#p文書)の「P文書」節にある最初のコードブロック（12〜28行、`# 1.概要`から始まる雛形）は、arc42テンプレートの改変抜粋です。
+
+arc42第1章の構成を日本語で簡略化し、記載項目の必須・任意の区分と記入上の指示を加えています。原著作者はGernot Starke、Peter Hruschkaおよび貢献者、改変版の提供者はf-vermi-lionです。出典は[arc42テンプレート](https://arc42.org/)です。
+
+**この抜粋とその改変部分は[CC BY-SA 4.0](LICENSES/CC-BY-SA-4.0.txt)で提供し、CC0の対象から除外します。** この表示は当該コードブロックを対象とし、周囲の独自の助言や記入例へ一律に適用するものではありません。
+
+The first fenced code block in the “P文書” section of the linked note (lines 12–28, beginning with `# 1.概要`) is an adapted excerpt of the arc42 template. It condenses and localizes the chapter 1 structure into Japanese and adds mandatory/optional distinctions and writing guidance. Original authors: Gernot Starke, Peter Hruschka, and contributors. Adaptation provided by f-vermi-lion. **This excerpt, including its adaptations, is distributed under CC BY-SA 4.0 and is excluded from CC0.** This notice does not extend that license to the surrounding independently authored advice or filled-in examples.
 
 ## その他の引用等 / Other third-party material
 
