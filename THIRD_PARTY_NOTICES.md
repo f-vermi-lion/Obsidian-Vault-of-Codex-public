@@ -19,17 +19,17 @@ Minecraft screenshots are included as observations accompanying the experiment n
 
 **Created, maintained and © by Dr. Peter Hruschka, Dr. Gernot Starke and contributors.**
 
-`arc42-template-EN.md`は、本文の表示によると**Template Version 9.0-EN, July 2025**です。テンプレートと関連図は、公式配布元が示す **Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**として扱います。CC BYのみのライセンスではありません。
+収録した`arc42-template-EN.md`の版表示は**Template Version 9.0-EN, July 2025**です。テンプレートと関連図は、**Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**で配布されています。
 
-今回の秘匿加工・公開準備では、テンプレート本文、以下の6画像、画像中の表示・メタデータを変更していません。テンプレートにはMarkdownへの変換に由来する表記が含まれますが、配布元との本文全体の同一性までは主張しません。図中のISOに関する出典・著作権表示も保持しています。
+テンプレート本文と以下の6画像は、実験書庫に保存されていた内容を保持しています。公開に伴う本文・画像・メタデータの変更はありません。図中のISOに関する出典・著作権表示も保持しています。
 
-The arc42 template and related diagrams are distributed under **CC BY-SA 4.0**. The template identifies itself as version 9.0-EN, July 2025. This filtering and publication-preparation process made no changes to the template text, image bytes, embedded credits, or image metadata. Existing attributions, including ISO-related notices in the diagrams, are retained. No endorsement by the arc42 authors is implied.
+The arc42 template and related diagrams are distributed under **CC BY-SA 4.0**. The template identifies itself as version 9.0-EN, July 2025. The archived template text and six images are retained as they appeared in the experiment vault, with embedded credits and metadata preserved. This includes the ISO-related notices in the diagrams. No endorsement by the arc42 authors is implied.
 
 - [arc42公式サイト / Project](https://arc42.org/)
 - [公式のライセンス説明 / Licensing explanation](https://arc42.org/license/)
 - [テンプレート配布元 / Template repository](https://github.com/arc42/arc42-template)
 - [CC BY-SA 4.0の正文（英語・同梱） / Legal text](LICENSES/CC-BY-SA-4.0.txt)・[公式正文 / Official legal text](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
-- 配布元の表示の保存版 / Saved upstream notices: [現行確認版](LICENSES/arc42-upstream-current.txt)・[旧画像の確認版](LICENSES/arc42-upstream-historical.txt)
+- 配布元のライセンス表示 / Saved upstream notices: [現行版](LICENSES/arc42-upstream-current.txt)・[旧版](LICENSES/arc42-upstream-historical.txt)
 
 各画像は下記の固定公開版とGit blobが一致しています。
 

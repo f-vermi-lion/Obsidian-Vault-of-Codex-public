@@ -10,15 +10,15 @@ CodexのAstraがMinecraft Java版を長時間プレイした実験で、参照�
 
 ## 読み始める場所
 
-- [攻略の現在地](Minecraft攻略の現在地.md)：収録時点の到達点と再開の導線。
+- [攻略の現在地](Minecraft攻略の現在地.md)：収録時点の進捗と関連記録。
 - [エンダードラゴン攻略の目的と計画](P文書/Minecraftエンドラ攻略.md)：取り組み全体の方針。
 - [書庫の使い方に関する初期の助言](この書庫の使い方についてのユーザーからの初期の助言.md)：書庫を使う意図。
 - [AGENTS.md](AGENTS.md)：実験中の書庫運用指示。過去の実験環境に向けた記録です。
 - [images/](images/)：ノートに対応する画面画像とarc42の図。
 
-ノートには当時の誤認や後から修正された判断も含みます。記録の意味は、その時点のノートと後続の更新を合わせて確認してください。このリポジトリ単体に、セッションログ、操作基盤、動画、ワールドのすべてが含まれているわけではありません。
+ノートには当時の誤認や後から修正された判断も含みます。記録の意味は、その時点のノートと後続の更新を合わせて確認してください。収録対象は書庫のノート・画像・Git履歴です。セッションログ、操作基盤、動画、ワールドは別資料です。
 
-通常のMarkdownはGitHubで読めます。`[[ノート名]]` や `![[画像名]]` などのObsidian記法を含むため、書庫として閲覧する場合はローカルに取得したフォルダをObsidianで開いてください。元の`.obsidian/`設定・プラグインは含めていません。書庫内のコマンド例や運用指示を、現在の環境で自動実行する必要はありません。
+通常のMarkdownはGitHubで読めます。`[[ノート名]]` や `![[画像名]]` などのObsidian記法を含むため、書庫として閲覧する場合はローカルに取得したフォルダをObsidianで開いてください。元の`.obsidian/`設定・プラグインは含めていません。ノート内のコマンドや運用手順は、実験当時の環境を前提としています。
 
 ## 履歴と公開用の加工
 
@@ -29,7 +29,7 @@ CodexのAstraがMinecraft Java版を長時間プレイした実験で、参照�
 | 加工・保全 | 内容 |
 |---|---|
 | 設定の除外 | `.obsidian/`を全履歴から除外 |
-| 作者メール | 指定された1種類・4出現を一貫した仮名メールへ置換 |
+| 作者メール | 個人の作者メール1種類（4か所）を仮名メールへ置換 |
 | 署名 | 履歴変更により無効になるコミット署名1件を除去 |
 | 実験の記録 | 元の505コミットを一対一で保持。親子関係・日時・メッセージを保全 |
 | ノート・画像 | 保持対象2,098種類のファイル内容は不変。うち画像913種類 |
@@ -39,14 +39,14 @@ CodexのAstraがMinecraft Java版を長時間プレイした実験で、参照�
 
 ## 利用条件・権利
 
-**リポジトリ全体を一律にCC0とするものではありません。** [権利表示の全文](LICENSE.md)と[第三者資料の出典](THIRD_PARTY_NOTICES.md)を合わせて確認してください。記録保持用ブランチや過去の版から資料を取り出す場合も同じ区別が必要です。
+**公開者が権利を持つ部分はCC0 1.0で提供します。** 第三者の素材にはそれぞれの条件が適用されます。詳しくは[権利表示の全文](LICENSE.md)と[第三者資料の出典](THIRD_PARTY_NOTICES.md)を参照してください。記録保持用ブランチや過去の版にも同じ条件が適用されます。
 
 | 対象 | 扱い |
 |---|---|
 | 公開者が権利を持つノート・記録・追加文書等 | その権利を持つ範囲でCC0 1.0 Universal |
-| Codexが生成した文章 | 著作権の有無を一括して断定しない。公開者に権利がある場合は上記CC0の対象 |
+| Codexが生成した文章 | 著作権が生じる場合、公開者が保有する権利の範囲でCC0を適用 |
 | Minecraftの画面に含まれるゲーム素材・商標等 | Mojang / Microsoft等の権利を保持。CC0の対象外。公式EULA・Usage Guidelines等を参照 |
 | arc42テンプレート・図 | CC BY-SA 4.0。著作者・出典・ライセンス表示を保持 |
 | その他の引用・第三者素材 | それぞれの権利・条件に従う。公開者のCC0で第三者の権利を許諾しない |
 
-**Rights summary (English):** The publisher applies CC0 1.0 only to rights they hold. This does not declare all AI-generated text copyrightable. Minecraft content and other third-party rights are excluded; arc42 material is under CC BY-SA 4.0. See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+**Rights summary (English):** The publisher applies CC0 1.0 only to rights they hold, including any such rights in AI-generated text. Material not protected by copyright remains unrestricted by this dedication. Minecraft content and other third-party rights are excluded; arc42 material is under CC BY-SA 4.0. See [LICENSE.md](LICENSE.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
